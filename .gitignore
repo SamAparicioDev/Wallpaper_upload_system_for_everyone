@@ -1,0 +1,11 @@
+# Artefactos de empaquetado (se regeneran, no van en git)
+build/
+dist/
+__pycache__/
+*.py[cod]
+
+# Estado local del cliente (se crea en %LOCALAPPDATA% en cada equipo)
+
+# Imagen real del servidor (colóquela directamente en el servidor, no en git)
+wallpaper-server/wallpapers/*
+!wallpaper-server/wallpapers/LEEME.md

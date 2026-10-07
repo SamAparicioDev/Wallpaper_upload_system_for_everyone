@@ -1,0 +1,7 @@
+{
+  "serverUrl": "https://tu-servidor.example.com/wallpaper",
+  "intervalMinutes": 15,
+  "style": "fill",
+  "maxSizeMB": 20,
+  "timeoutSeconds": 30
+}
